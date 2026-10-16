@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>black/videoimages.qrc</file>
+        <file>black/播放列表.svg</file>
+        <file>black/多选.svg</file>
+        <file>black/更多.svg</file>
+        <file>black/关闭.svg</file>
+        <file>black/开始播放.svg</file>
+        <file>black/历史记录 .svg</file>
+        <file>black/上一个.svg</file>
+        <file>black/声音.svg</file>
+        <file>black/视频播放器_.svg</file>
+        <file>black/顺序播放.svg</file>
+        <file>black/随机播放.svg</file>
+        <file>black/添加文件.svg</file>
+        <file>black/退出最大化.svg</file>
+        <file>black/下一个 .svg</file>
+        <file>black/循环播放.svg</file>
+        <file>black/暂停播放.svg</file>
+        <file>black/最大化 .svg</file>
+        <file>black/最小化 .svg</file>
+        <file>white/播放列表.svg</file>
+        <file>white/多选.svg</file>
+        <file>white/更多 .svg</file>
+        <file>white/关闭.svg</file>
+        <file>white/开始播放 .svg</file>
+        <file>white/历史记录 .svg</file>
+        <file>white/上一个.svg</file>
+        <file>white/声音.svg</file>
+        <file>white/视频播放器_.svg</file>
+        <file>white/顺序播放.svg</file>
+        <file>white/随机播放.svg</file>
+        <file>white/添加文件.svg</file>
+        <file>white/退出最大化.svg</file>
+        <file>white/下一个 下一首.svg</file>
+        <file>white/循环播放.svg</file>
+        <file>white/暂停播放.svg</file>
+        <file>white/最大化.svg</file>
+        <file>white/最小化 .svg</file>
+    </qresource>
+</RCC>
